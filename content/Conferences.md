@@ -8,7 +8,6 @@ tags:
   Co-organizer of [MS203: Sensitivity Analysis in Science and Engineering](https://wccm-eccomas2026.org/event/area/826185b1-ab83-11f0-bce5-000c29ddfc0c) at [[WCCM ECCOMAS 2026]] conference, Munich (DE)
 - R. Schussnig, A. Ranno, I. Steinbrecher, M. Rolf, G.M. Melito, and C. Armour
   Co-organizer of [MS120: Recent Advances in Computational Methods for the Cardiovascular System](https://wccm-eccomas2026.org/event/area/80f7e3b1-ab83-11f0-bce5-000c29ddfc0c) at [[WCCM ECCOMAS 2026]] conference, Munich (DE)
-
 ## 2025
 - G.M. Melito, S. Brandstäter, F. Schäfer, W. Huberts. Organizer of [MS3: Methodological Developments and Applications of Global Sensitivity Analysis in Science and Engineering](https://2025.uncecomp.org/content/accepted-minisymposia) at [[UNCECOMP 2025]] conference, Rhodes (GR)
     - (presenter) [INVESTIGATING THE ROLE OF CLINICALLY RELEVANT GEOMETRICAL AORTIC PARAMETERS THROUGH SENSITIVITY ANALYSIS OF HEALTHY AORTIC MORPHOLOGIES](https://tugraz.elsevierpure.com/de/activities/investigating-the-role-of-clinically-relevant-geometrical-aortic-), Melito, G. M., Domagoj Bošnjak, Richard Schussnig, Fries, T., Brenn, G., Ellermann, K.
