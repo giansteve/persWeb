@@ -1,7 +1,6 @@
 ---
 title: Welcome
 ---
-
 Assistant Professor at the [Institute of Mechanics](https://www.tugraz.at/institute/ifm/home) at [Graz University of Technology](https://www.tugraz.at/en/home). 
 
 My research focuses on **uncertainty quantification** and **sensitivity analysis** of mathematical models, with a particular interest in the mechanics and modeling of **aortic dissection** and other cardiovascular conditions. I'm also passionate about exploring broader applications of these techniques in different fields.
