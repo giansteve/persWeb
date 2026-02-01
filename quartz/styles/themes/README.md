@@ -1,14 +1,13 @@
-# Minimal
+# Atom
 
-- Theme: Minimal
-- Author: <a href="https://twitter.com/kepano" target="_blank" rel="noopener noreferrer">@kepano</a>
-- Support the author: <a href="https://www.buymeacoffee.com/kepano" target="_blank" rel="noopener noreferrer">Donate</a>
+- Theme: Atom
+- Author: kognise
 
 ## Preview
 
-[Open live preview (Quartz)](https://quartz-themes.github.io/minimal/)
+[Open live preview (Quartz)](https://quartz-themes.github.io/atom/)
 
-[Open live preview (Publish)](https://publish.saberzero.one/minimal)
+[Open live preview (Publish)](https://publish.saberzero.one/atom)
 
 ## Usage (Quartz)
 
@@ -16,7 +15,7 @@
 
 ```yaml
 env:
-  THEME_NAME: minimal
+  THEME_NAME: atom
 ```
 
 ```yaml
@@ -29,7 +28,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh minimal
+./action.sh atom
 ```
 
 ### Manual install
