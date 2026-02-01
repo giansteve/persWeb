@@ -12,7 +12,7 @@ I love teaching and working with students, helping them grow academically and pr
 
 ## What I Do
 
-- [[Research]]: Dive into my research projects, publications, and conferences
+- [[Research]]: Dive into my research projects, [[publication list|publications]], and [[conferences]]
 - [[Teaching]]: Learn about my courses and mentoring philosophy
 - [[Resources]]: Access tools, datasets, and educational materials
 
