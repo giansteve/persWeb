@@ -2,10 +2,6 @@
 title: Welcome
 ---
 
-Hi!
-
-I am Gian Marco **Melito**, 
-
 Assistant Professor at the [Institute of Mechanics](https://www.tugraz.at/institute/ifm/home) at [Graz University of Technology](https://www.tugraz.at/en/home). 
 
 My research focuses on **uncertainty quantification** and **sensitivity analysis** of mathematical models, with a particular interest in the mechanics and modeling of **aortic dissection** and other cardiovascular conditions. I'm also passionate about exploring broader applications of these techniques in different fields.
@@ -14,9 +10,9 @@ I love teaching and working with students, helping them grow academically and pr
 
 ---
 
-# What I Do
+## What I Do
 
-- [[Science]]: Dive into my research projects, publications, and conferences
+- [[Research]]: Dive into my research projects, publications, and conferences
 - [[Teaching]]: Learn about my courses and mentoring philosophy
 - [[Resources]]: Access tools, datasets, and educational materials
 
