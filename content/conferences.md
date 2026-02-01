@@ -1,4 +1,8 @@
 ---
 title: Conferences
+tags:
+  - research
 ---
-Where is the next one?
+I have participated in the following conferences
+- [[WCCM ECCOMAS 2026]]
+- [[UNCECOMP 2025]]
