@@ -1,13 +1,13 @@
-# Atom
+# Border
 
-- Theme: Atom
-- Author: kognise
+- Theme: Border
+- Author: <a href="https://github.com/Akifyss" target="_blank" rel="noopener noreferrer">Akifyss</a>
 
 ## Preview
 
-[Open live preview (Quartz)](https://quartz-themes.github.io/atom/)
+[Open live preview (Quartz)](https://quartz-themes.github.io/border/)
 
-[Open live preview (Publish)](https://publish.saberzero.one/atom)
+[Open live preview (Publish)](https://publish.saberzero.one/border)
 
 ## Usage (Quartz)
 
@@ -15,7 +15,7 @@
 
 ```yaml
 env:
-  THEME_NAME: atom
+  THEME_NAME: border
 ```
 
 ```yaml
@@ -28,7 +28,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh atom
+./action.sh border
 ```
 
 ### Manual install
