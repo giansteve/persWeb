@@ -18,4 +18,4 @@ This is a growing collection of research-oriented tools, prototypes, and open-so
   No installs. No libraries. Runs entirely in your browser.
   The code is available on my GitHub.
 
-- My **PhD thesis**: [[PhDThesis_Melito.pdf|Sensitivity analysis for model optimization and calibration in type B aortic dissection]]. Melito G. M. (2022)
+- My **PhD thesis**: [[PhDThesis_Melito.pdf|Sensitivity analysis for model optimization and calibration in type B aortic dissection]]. Melito G. M. (2022) ^44c22c
